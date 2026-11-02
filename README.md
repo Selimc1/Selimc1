@@ -34,7 +34,7 @@ I develop firmware for Arm Cortex-M microcontrollers, mostly STM32, working dire
 | [BMP280 Dual Sensor Driver](https://github.com/Selimc1/BMP280_Dual_Sensor_Driver) | Two BMP280 sensors read simultaneously over SPI and I²C | Register-level SPI / I²C drivers · bus timeouts · integer compensation |
 | [Smart Greenhouse](https://github.com/Selimc1/Smart_Greenhouse_BareMetal) | STM32F103 greenhouse controller, simulated in Proteus | Single-wire DHT11 driver · humidity-driven fan PWM · EXTI door alarm |
 
-Smaller bare-metal exercises: [ADC + UART monitoring](https://github.com/Selimc1/ADC_UART_Monitoring) · [Timer + ADC + UART](https://github.com/Selimc1/BareMetal_Timer_ADC_UART) · [EXTI emergency stop](https://github.com/Selimc1/EXTI_EStop_Button) · [EXTI multi-sensor](https://github.com/Selimc1/EXTI_MultiSensor)
+Smaller bare-metal exercises: [ADC + UART monitoring](https://github.com/Selimc1/ADC_UART_Monitoring) · [1 kHz ADC step-response logger](https://github.com/Selimc1/BareMetal_Timer_ADC_UART) · [EXTI emergency stop](https://github.com/Selimc1/EXTI_EStop_Button) · [EXTI multi-sensor](https://github.com/Selimc1/EXTI_MultiSensor)
 
 ### Tools
 
