@@ -10,7 +10,7 @@ I develop firmware for Arm Cortex-M microcontrollers, mostly STM32, working dire
 
 ### Focus areas
 
-| | |
+| Area | Experience |
 |---|---|
 | **Embedded firmware** | Bare-metal C on STM32 F1 / F4 / H7 · interrupts, timers, PWM, ADC, DMA · start-up code and linker scripts |
 | **Communication** | SPI · I²C · UART · Ethernet (WIZnet W5500, TCP) · LLRP · MAVLink |
