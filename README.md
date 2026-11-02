@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Selim Coşkun 👋</h1>
 <p align="center">
-  <b>Electrical &amp; Electronics Engineering student · Embedded systems developer</b><br/>
+  <b>Embedded systems developer · Electrical &amp; Electronics Engineering, İzmir Kâtip Çelebi University</b><br/>
   Bare-metal STM32 firmware · UAV flight control · Rust
 </p>
 
@@ -13,7 +13,7 @@
 ### About me
 
 - 🔧 I write **register-level firmware for STM32** (F1 / F4 / H7): drivers for SPI, I²C, UART, timers, ADC, EXTI and Ethernet, written from the reference manual and datasheets.
-- ✈️ In my **Teknofest** UAV team I work on a fixed-wing **flight controller** (STM32H7) and the **ground control station** (Rust + Tauri).
+- ✈️ For **Teknofest** I work on a fixed-wing **flight controller** (STM32H7) and a **ground control station** (Rust + Tauri).
 - 🎮 In my spare time I'm building a **grand-strategy game in Rust**.
 
 ### Tech stack
@@ -38,7 +38,3 @@
 | [**Smart Greenhouse**](https://github.com/Selimc1/Smart_Greenhouse_BareMetal) | STM32F103 greenhouse controller (Proteus) | Hand-written DHT11 driver, humidity-based fan PWM, EXTI door alarm |
 
 More bare-metal STM32 exercises: [ADC + UART monitoring](https://github.com/Selimc1/ADC_UART_Monitoring) · [Timer + ADC + UART](https://github.com/Selimc1/BareMetal_Timer_ADC_UART) · [EXTI emergency stop](https://github.com/Selimc1/EXTI_EStop_Button) · [EXTI multi-sensor](https://github.com/Selimc1/EXTI_MultiSensor)
-
----
-
-<p align="center"><i>Open to internships and collaboration in embedded systems and avionics.</i></p>
